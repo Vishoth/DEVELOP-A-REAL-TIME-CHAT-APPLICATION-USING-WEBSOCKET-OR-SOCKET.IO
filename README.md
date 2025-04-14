@@ -1,4 +1,16 @@
 # DEVELOP-A-REAL-TIME-CHAT-APPLICATION-USING-WEBSOCKET-OR-SOCKET.IO
+TASK-4 CHROME EXTENSION FOR TIME TRACKING AND PRODUCTIVITY ANALYTICS
+
+COMPANY: Codtech it solutions
+
+Name: MUZAMMIL AHMED
+
+INTERN ID: CT04WH34
+
+Domain: FULL STACK DEVELOPMENT
+
+Duration: 8 week
+
 # Getting Started with Create React App
 
 ![Screenshot 2025-04-12 185245](https://github.com/user-attachments/assets/57d9bcd4-fd1f-4ad4-80ca-bb5f09722a84)
